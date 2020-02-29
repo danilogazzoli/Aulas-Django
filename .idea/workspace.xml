@@ -21,8 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="96fd5464-1c2d-4c10-8c4b-079b8dfdc06e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cursodjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../cursodjango/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cursodjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../cursodjango/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula4/templates/aula4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../aula4/templates/aula4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula4/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../aula4/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
