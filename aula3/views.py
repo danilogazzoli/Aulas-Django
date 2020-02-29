@@ -54,3 +54,14 @@ def show_post_values(request):
     """
     html_to_response = head + html
     return HttpResponse(html_to_response)
+
+def show_info(request):
+    html = f"<h1> O browser atual é: {request.META['HTTP_USER_AGENT']} </h1>" \
+           f"<h1> Caminho: {request.path}" \
+           f"<h1> Host: {request.get_host()}" \
+           f"<h1> Full Path: {request.get_full_path()}"\
+           f"<h1> Is secure: {request.is_secure()}" \
+           f"<h1> Idioma: {request.META['LANGUAGE']}"
+
+    response = HttpResponse(html)
+    return response

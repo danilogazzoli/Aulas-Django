@@ -12,5 +12,7 @@ urlpatterns = [
     path('<int:code>', views.show_code),
     path('cats/<int:code>',views.go_cats),
     path('get/', views.show_get_values),
-    path('post/', views.show_post_values)
+    path('post/', views.show_post_values),
+    path('showinfo/', views.show_info)
+
 ]
