@@ -19,9 +19,16 @@ from django.conf.urls.static import static
 from django.conf import settings
 from aula3.views import index
 from aula4.views import index
+from aula6.views import index as index6
+from aula7.views import index as index7, restrita, logout_view, permission_view
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include("aula3.urls")),
     path('aula4', index),
+    path('aula6', index6),
+    path('entrar', index7, name='login'),
+    path('aula7/restrita', restrita),
+    path('aula7/sair', logout_view),
+    path('aula7/view-carrinho', permission_view)
 ] + static(settings.MEDIA_URL, document_root = settings.MEDIA_ROOT)

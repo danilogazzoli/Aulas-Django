@@ -20,8 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96fd5464-1c2d-4c10-8c4b-079b8dfdc06e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cursodjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../cursodjango/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../IA/cursoPython.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula6/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cursodjango/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/cursodjango/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cursodjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/cursodjango/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,19 +33,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XqWJQRdYEYxwHxGLQ4ZTavLep0" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/aula7/templates" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/aula7/templates" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/aula7/templates/aula7" />
       <recent name="$PROJECT_DIR$/../aula4/templates/aula4" />
     </key>
   </component>
@@ -68,8 +81,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2414" y="361" width="424" height="484" key="FileChooserDialogImpl" timestamp="1583075473098">
+      <screen x="1920" y="207" width="1366" height="768" />
+    </state>
+    <state x="2414" y="361" width="424" height="484" key="FileChooserDialogImpl/1920.207.1366.768/0.234.1920.966@1920.207.1366.768" timestamp="1583075473098" />
+    <state x="227" y="27" width="704" height="741" key="find.popup" timestamp="1583003678021">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="227" y="27" width="704" height="741" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1583003678021" />
     <state x="379" y="88" width="672" height="678" key="search.everywhere.popup" timestamp="1582999796169">
       <screen x="67" y="27" width="1299" height="741" />
     </state>

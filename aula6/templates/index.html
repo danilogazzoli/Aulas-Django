@@ -1,0 +1,7 @@
+{% extends 'base.html' %}
+{% block title%} Página da aula 6
+{% endblock %}
+{% block content%}
+   <h1> Aula 6 </h1>
+   {% include 'aula4/lista.html' with items=alunos %}
+{% endblock %}
